@@ -1,1 +1,6 @@
-# git-commands
+## Uncommon Git Commands
+
+1. Check status of the repo:
+	```
+	git status
+	```
